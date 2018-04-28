@@ -1,6 +1,6 @@
 # Brno criminality
 
-Web app that presents criminality in Brno based on data from 2016.
+Web app that provides an interactive visualization of Brno's crime data from 2016.
 
 ## Built With
 
